@@ -7,6 +7,10 @@ Microlearning api is the main microservice which is a part of the workcale micro
   - Create a new category
   - Delete a category
 
-### Build docker image
+## How to launch
 
-`docker build -t microlearning-api .`
+Please refer to the docker-compose file [here](https://github.com/bdridi/workcale-experiments/tree/master/compose)
+
+## API documentation : 
+
+- [Swagger-ui](localhost:8090/swagger-ui.html)
